@@ -1,0 +1,19 @@
+{
+  "name": "scooter-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammad-alosta-sky/Scooter-Project.git"
+  },
+  "author": "Adil, Helal and Mohammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammad-alosta-sky/Scooter-Project/issues"
+  },
+  "homepage": "https://github.com/mohammad-alosta-sky/Scooter-Project#readme"
+}
