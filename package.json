@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mohammad-alosta-sky/Scooter-Project/issues"
   },
-  "homepage": "https://github.com/mohammad-alosta-sky/Scooter-Project#readme"
+  "homepage": "https://github.com/mohammad-alosta-sky/Scooter-Project#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
